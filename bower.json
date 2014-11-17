@@ -1,0 +1,16 @@
+{
+  "name": "mohsen1.ui-layout",
+  "version": "0.0.0",
+  "authors": [
+    "Mohsen Azimi <msn.azi@gmail.com>"
+  ],
+  "description": "A temporary UI Layout fork that supports Angular 1.2.3",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
